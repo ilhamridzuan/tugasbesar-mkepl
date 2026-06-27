@@ -1,0 +1,27 @@
+# Maven build output
+target/
+
+# IDE files
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
