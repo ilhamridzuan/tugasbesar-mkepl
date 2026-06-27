@@ -19,6 +19,8 @@ import java.util.Map;
  * @author deswi
  */
 
+
+
 public class Community implements CommunityOperations {
     private final List<Comment> comments;
     private int likes;

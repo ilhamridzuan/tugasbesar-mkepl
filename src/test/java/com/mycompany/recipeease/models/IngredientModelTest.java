@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Unit tests for the Ingredient model class.
  */
 @DisplayName("Ingredient Model Tests")
-class IngredientModelTest {
+class IngredientModelTest{
 
     private Ingredient ingredient;
 
