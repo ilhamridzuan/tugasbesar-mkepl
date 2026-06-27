@@ -7,7 +7,6 @@ import org.junit.jupiter.api.DisplayName;
 import java.util.Date;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 /**
  * Unit tests for the Comment class.
  */
