@@ -40,7 +40,7 @@
     </build>
 
     <properties>
-        <sonar.organization>pietersinagaa-1</sonar.organization>
+        <sonar.organization>pietersinagaa</sonar.organization>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.recipeease.RecipeTest</exec.mainClass>
