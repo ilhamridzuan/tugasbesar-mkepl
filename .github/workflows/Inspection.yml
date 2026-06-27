@@ -1,9 +1,11 @@
 name: Continous Inspection
+
 on:
-  workflow_run:
-    workflows: ["Java CI with Maven"]
-    types: 
-    - completed
+  push:
+    branches: [ "development" ]
+  pull_request:
+    branches: [ "main" ]
+    
 jobs:
   build:
     name: Build and analyze
