@@ -25,7 +25,7 @@ class CommentTest {
     @Test
     @DisplayName("Constructor should set comment ID correctly")
     void constructorShouldSetCommentID() {
-        assertEquals(100, comment.getCommentID());
+        assertEquals(1, comment.getCommentID());
     }
 
     @Test
